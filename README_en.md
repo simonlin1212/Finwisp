@@ -32,15 +32,20 @@ Extract the ZIP and move `Finwisp Preview.app` into Applications. GitHub's autom
 
 ## Requirements
 
-| Item | Current requirement |
-| --- | --- |
-| Computer | **Apple Silicon M-series Mac only**; Intel Macs, Windows, and Linux are not supported |
-| Operating system | macOS 13 or later |
-| Model access | **A ChatGPT subscription account with Codex access**; model access, voice access, and usage limits depend on the OpenAI account |
-| Local runtime | Codex CLI must be installed and executable at `/opt/homebrew/bin/codex`. Installing the Codex desktop interface alone does not establish this path |
-| Network | Required for models, real-time voice, and online data queries |
-| Audio | Built-in Mac microphone and speakers only; microphone permission is required |
-| Interface | Simplified Chinese only |
+<table>
+<thead>
+<tr><th nowrap>Item</th><th>Current requirement</th></tr>
+</thead>
+<tbody>
+<tr><td nowrap>Computer</td><td><strong>Apple Silicon M-series Mac only</strong>; Intel Macs, Windows, and Linux are not supported</td></tr>
+<tr><td nowrap>Operating system</td><td>macOS 13 or later</td></tr>
+<tr><td nowrap>Model access</td><td><strong>A ChatGPT subscription account with Codex access</strong>; model access, voice access, and usage limits depend on the OpenAI account</td></tr>
+<tr><td nowrap>Local runtime</td><td>Codex CLI must be installed and executable at <code>/opt/homebrew/bin/codex</code>. Installing the Codex desktop interface alone does not establish this path</td></tr>
+<tr><td nowrap>Network</td><td>Required for models, real-time voice, and online data queries</td></tr>
+<tr><td nowrap>Audio</td><td>Built-in Mac microphone and speakers only; microphone permission is required</td></tr>
+<tr><td nowrap>Interface</td><td>Simplified Chinese only</td></tr>
+</tbody>
+</table>
 
 Node and Python runtimes are included. Finwisp does not provide or share subscription accounts, and packages contain no signed-in account. This release is offered for subscription access; API-key access is not promised as a substitute for the complete voice experience.
 

@@ -32,15 +32,20 @@ Finwisp 把语音交流、研究工具和本地记录连接起来。可以直接
 
 ## 使用要求
 
-| 项目 | 当前要求 |
-| --- | --- |
-| 电脑 | **仅支持 Apple Silicon M 系列芯片的 Mac**，不支持 Intel Mac、Windows 或 Linux |
-| 系统 | macOS 13 或更高版本 |
-| 模型接入 | **需要具有 Codex 使用权限的 ChatGPT 订阅账号**；模型与语音的实际可用性及额度由 OpenAI 账号决定 |
-| 本机运行时 | 需要安装 Codex CLI；本版要求 `/opt/homebrew/bin/codex` 可执行文件可用。仅安装 Codex 桌面界面不代表此路径已配置 |
-| 网络 | 模型、实时语音及联网数据查询需要网络连接 |
-| 音频 | 当前仅允许选择 Mac 内建麦克风与扬声器，需允许麦克风访问 |
-| 界面 | 当前为简体中文界面 |
+<table>
+<thead>
+<tr><th nowrap>项目</th><th>当前要求</th></tr>
+</thead>
+<tbody>
+<tr><td nowrap>电脑</td><td><strong>仅支持 Apple Silicon M 系列芯片的 Mac</strong>，不支持 Intel Mac、Windows 或 Linux</td></tr>
+<tr><td nowrap>系统</td><td>macOS 13 或更高版本</td></tr>
+<tr><td nowrap>模型接入</td><td><strong>需要具有 Codex 使用权限的 ChatGPT 订阅账号</strong>；模型与语音的实际可用性及额度由 OpenAI 账号决定</td></tr>
+<tr><td nowrap>本机运行时</td><td>需要安装 Codex CLI；本版要求 <code>/opt/homebrew/bin/codex</code> 可执行文件可用。仅安装 Codex 桌面界面不代表此路径已配置</td></tr>
+<tr><td nowrap>网络</td><td>模型、实时语音及联网数据查询需要网络连接</td></tr>
+<tr><td nowrap>音频</td><td>当前仅允许选择 Mac 内建麦克风与扬声器，需允许麦克风访问</td></tr>
+<tr><td nowrap>界面</td><td>当前为简体中文界面</td></tr>
+</tbody>
+</table>
 
 App 已随包提供 Node 与 Python 运行时，无需另行安装这两个环境。Finwisp 不提供或共享订阅账号，安装包不包含任何登录态。本次发布按订阅接入方式提供，不承诺 API Key 接入可替代完整语音能力。
 
