@@ -95,11 +95,3 @@ Finwisp 为闭源软件，产品源码未在本仓库授权开源。公开提供
 Copyright © 2026 Simon Lin. All rights reserved.
 
 **作者：** Simon 林 · X [@linsizhen](https://x.com/linsizhen) · 邮箱：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
----
-
-**看机会 · Open to Opportunities｜深圳 · 香港 · 远程**
-
-我是 Simon，专注于 AI Agent 与实用工具开发，目前在看深圳、香港或远程的机会，欢迎联系：[simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
-I'm Simon, building AI agents and practical tools. Currently open to opportunities in Shenzhen, Hong Kong, or remote — feel free to reach out: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)

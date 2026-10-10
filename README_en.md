@@ -95,9 +95,3 @@ Finwisp is closed-source software. Its product source code is not licensed as op
 Copyright © 2026 Simon Lin. All rights reserved.
 
 **Author:** Simon Lin · X [@linsizhen](https://x.com/linsizhen) · Email: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
-
----
-
-**Open to Opportunities · 看机会｜Shenzhen · Hong Kong · Remote**
-
-I'm Simon, building AI agents and practical tools. Currently open to opportunities in Shenzhen, Hong Kong, or remote — feel free to reach out: [simonlin0423@gmail.com](mailto:simonlin0423@gmail.com)
